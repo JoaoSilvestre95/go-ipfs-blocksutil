@@ -1,3 +1,5 @@
-module github.com/ipfs/go-ipfs-blocksutil
+module github.com/JoaoSilvestre95/go-ipfs-blocksutil
 
-require github.com/ipfs/go-block-format v0.0.2
+go 1.15
+
+require github.com/JoaoSilvestre95/go-block-format v0.0.3
